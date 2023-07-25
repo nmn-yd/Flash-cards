@@ -10,7 +10,7 @@ Mini Project of question and answers.Click on questions to find there answers.
 
 1. Clone this Git repository to your local machine using the following command:
 
-   git clone https://github.com/your-username/your-vite-project.git
+   git clone https://github.com/nmn-yd/Flash-cards.git
 
 2. Change directory to the project folder:
 
